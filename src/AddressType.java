@@ -1,5 +1,3 @@
-package AgilitySolutions.DataModel.Enums;
-
 public enum AddressType {
     Mailing(1, "Mailing"),
     Shipping(2, "Shipping"),
