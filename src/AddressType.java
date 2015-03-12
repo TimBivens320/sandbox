@@ -1,7 +1,7 @@
 public enum AddressType {
     Mailing(1, "Mailing"),
     Shipping(2, "Shipping"),
-    Billing(2, "Billing");
+    Billing(3, "Billing");
 
     private final int id;
     private final String description;
